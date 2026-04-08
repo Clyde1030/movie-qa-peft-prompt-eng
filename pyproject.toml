@@ -1,0 +1,8 @@
+[project]
+name = "movie-qa-peft-prompt-eng"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "nbformat>=5.10.4",
+]
