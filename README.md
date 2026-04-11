@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  Check out our <a href="presentation.pdf">presentation</a> &nbsp; | &nbsp;
-  Read our <a href="https:">Medium article</a> &nbsp; | &nbsp;
+  Check out our <a href="PEFT_Movie_QA_Presentation.pdf">presentation</a> &nbsp; | &nbsp;
   Read our <a href="paper.pdf">paper</a>
 </p>
 
